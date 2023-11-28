@@ -10,7 +10,7 @@ Hack Cameras
 
 * git clone https://https://github.com/Jaime393/CamHack
 
-* cd Cam-Hackers
+* cd cam-hackers
 
 * pip install -r requirements.txt
 
